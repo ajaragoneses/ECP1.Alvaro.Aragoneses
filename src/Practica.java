@@ -2,7 +2,8 @@
 public class Practica {
 
 	public static void main(String[] args) {
-		System.out.println("Develop msg");
+		System.out.println("Release 1.0");
+		System.out.println("Hola Mundo!");
 	}
 
 }
