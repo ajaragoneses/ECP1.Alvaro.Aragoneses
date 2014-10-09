@@ -8,6 +8,7 @@ public class Practica {
 		System.out.println("cerrando..");
 		System.out.println("Salvando datos...");
 		System.out.println("Guardando configuraciones...");
+		System.out.println("Terminado!");
 	}
 
 }
